@@ -1,4 +1,4 @@
-The Designed Tables were used for analysis of international data from 4 countries based on data code created by STATA. 
+The Designed Tables were used for analysis of international data from Indonesia, Malaysia, Russia, and South Korea based on data code used in STATA. 
 The purpose of these tables to view potential correlations between countries and used in the Data Analysis Report. 
 
 The Data Analysis Report shows all STATA code used to analyze key similiarities and differences between Indonesia, Malaysia, Russia, and South Korea. 
