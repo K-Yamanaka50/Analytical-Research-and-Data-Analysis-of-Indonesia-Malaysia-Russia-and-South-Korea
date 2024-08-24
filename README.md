@@ -12,7 +12,7 @@ This research was completed as part of a Political Science Course at Grinnell Co
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" />
-    <img height="500" src="ResearchQuestion222&57&214forAnalysisFindings.png"/>
+    <img height="1000" src="ResearchQuestion222&57&214forAnalysisFindings.png"/>
   </picture>
 
 </h1>
