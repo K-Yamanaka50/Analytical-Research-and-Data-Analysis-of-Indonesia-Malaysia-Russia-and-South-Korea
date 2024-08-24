@@ -8,3 +8,11 @@ qualitative research, international nonprofits, and scholars. This Research Pape
 form independent conclusions of potential correlations between the 4 countries. 
 
 This research was completed as part of a Political Science Course at Grinnell College titled, "Democratization and Politics of Regime Change."
+
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" />
+    <img height="500" src="ResearchQuestion222&57&214forAnalysisFindings.png"/>
+  </picture>
+
+</h1>
