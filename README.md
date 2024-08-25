@@ -5,7 +5,7 @@ The Data Analysis Report shows all STATA code used to analyze key similiarities 
 
 The Analytical Research Paper compares the correlations and findings between Indonesia, Malaysia, Russia, and South Korea based on forms of governance, 
 qualitative research, international nonprofits, and scholars. This Research Paper was based on STATA data derived from the Data Analysis Report to be compared with expert scholars to 
-form independent conclusions of potential correlations between the 4 countries. 
+form our own independent conclusions of potential correlations between the 4 countries. 
 
 This research was completed as part of a Political Science Course at Grinnell College titled, "Democratization and Politics of Regime Change."
 
